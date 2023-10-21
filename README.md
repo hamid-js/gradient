@@ -2,6 +2,7 @@
 
 Create your gradient color
 
+[click & show](https://hamid-js.github.io/gradient/)
 ## Technologies
 
 - HTML5
